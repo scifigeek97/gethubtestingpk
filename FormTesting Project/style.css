@@ -1,0 +1,18 @@
+body {
+    align-items: center;
+    background: linear-gradient(320deg, #d3bdbd, #c282ca);
+    font-size: small;
+    display: flex;
+    justify-content: center;
+  height: inherit;
+}
+
+.wrapper {
+    backdrop-filter: blur (5.5px);
+    border: 2px solid;
+    border-radius: 10px;
+    box-shadow: 0 4px 30px #1b171a;
+flex-basis: 400px;
+height: 540px;
+padding: 22px 35px;
+}
